@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "titulo": "Comercial_Direto",
+    "talk_id": "tlk_85YeVXbG8WZawJKz8ZTrd",
+    "output": "/home/ubuntu/video-anchor/videos_did/talk_01_Comercial_Direto.mp4"
+  },
+  {
+    "id": "02",
+    "titulo": "Processo_Autoridade",
+    "talk_id": "tlk_8tYlUqsoU4tQ_0ag6bqcu",
+    "output": "/home/ubuntu/video-anchor/videos_did/talk_02_Processo_Autoridade.mp4"
+  },
+  {
+    "id": "03",
+    "titulo": "Cena_Network",
+    "talk_id": "tlk_S3bKNCTWonESZ_L9tvBNE",
+    "output": "/home/ubuntu/video-anchor/videos_did/talk_03_Cena_Network.mp4"
+  },
+  {
+    "id": "04",
+    "titulo": "Remarketing",
+    "talk_id": "tlk_Pbj1JMwuC8crHZPIqmjoM",
+    "output": "/home/ubuntu/video-anchor/videos_did/talk_04_Remarketing.mp4"
+  }
+]
