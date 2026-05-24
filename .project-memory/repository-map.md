@@ -1,9 +1,10 @@
 # Repository Map
 
-Updated: 2026-05-24 23:26:24 +0000
+Updated: 2026-05-24 23:45:40 +0000
 
 ```text
 - ./
+  - .gitignore
   - CHANGELOG.md
   - CONTEXT.md
   - CONTEXTO_PROJETO.md
@@ -52,19 +53,6 @@ Updated: 2026-05-24 23:26:24 +0000
     - r04_clip2.mp4
     - r04_clip3.mp4
     - r04_clip4.mp4
-  - export/
-    - video_01_Comercial_Direto_FINAL.mp4
-    - video_02_Processo_Autoridade_FINAL.mp4
-    - video_03_Cena_Network_FINAL.mp4
-    - video_04_Remarketing_FINAL.mp4
-  - queue/
-    - export_log.json
-    - jobs.json
-    - logs/
-      - job_1f50366a.log
-      - job_65ddebe2.log
-      - job_b8d173e8.log
-      - job_de7cfa28.log
   - roteiros/
     - roteiro-01-comercial-direto.md
     - roteiro-02-processo-autoridade.md
@@ -107,10 +95,4 @@ Updated: 2026-05-24 23:26:24 +0000
     - video_02_Processo_Autoridade.mp4
     - video_03_Cena_Network.mp4
     - video_04_Remarketing.mp4
-    - escritorio/
-      - video_01_Comercial_Direto_escritorio.mp4
-    - estudio/
-      - video_01_Comercial_Direto_estudio.mp4
-    - lifestyle/
-      - video_01_Comercial_Direto_lifestyle.mp4
 ```
