@@ -1,0 +1,43 @@
+# Credenciais e segredos — NUNCA versionar
+.env
+credentials.json
+service_account.json
+token_drive.pickle
+
+# Arquivos temporários do FFmpeg
+/tmp/
+
+# Pasta de exportação local (gerada automaticamente)
+export/
+
+# Logs de jobs (gerados automaticamente)
+queue/logs/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Vídeos gerados localmente (grandes demais para o Git)
+# Descomente se quiser excluir os vídeos do versionamento:
+# videos_final/
+# videos_v4/
+# videos_did/
+# videos_v2/
+# videos/
