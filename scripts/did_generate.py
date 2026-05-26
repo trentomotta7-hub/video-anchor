@@ -3,7 +3,23 @@ import time
 import os
 import json
 
-DID_API_KEY = "dHJlbnRvbW90dGExNDA1QGdtYWlsLmNvbQ:xHzyUEAwaIXDxd-W7ln8e"
+from pathlib import Path
+
+# Carregar variáveis de ambiente do .env se existir
+REPO_DIR = Path(__file__).parent.parent
+env_path = REPO_DIR / ".env"
+if env_path.exists():
+    with open(env_path) as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                key, val = line.split("=", 1)
+                os.environ[key.strip()] = val.strip().strip('"').strip("'")
+
+DID_API_KEY = os.environ.get("DID_API_KEY", "")
+if not DID_API_KEY:
+    print("AVISO: DID_API_KEY não encontrada nas variáveis de ambiente ou .env")
+    
 BASE_URL = "https://api.d-id.com"
 HEADERS = {
     "accept": "application/json",
@@ -15,9 +31,9 @@ HEADERS_UPLOAD = {
     "authorization": f"Basic {DID_API_KEY}"
 }
 
-PRESENTER_IMG = "/home/ubuntu/video-anchor/assets/anchor_presenter.jpg"
-VOZES_DIR = "/home/ubuntu/video-anchor/assets/vozes"
-TALKS_DIR = "/home/ubuntu/video-anchor/videos_did"
+PRESENTER_IMG = str(REPO_DIR / "assets" / "anchor_presenter.jpg")
+VOZES_DIR = str(REPO_DIR / "assets" / "vozes")
+TALKS_DIR = str(REPO_DIR / "videos_did")
 os.makedirs(TALKS_DIR, exist_ok=True)
 
 ROTEIROS = [

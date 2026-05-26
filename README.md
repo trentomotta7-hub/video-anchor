@@ -2,6 +2,20 @@
 
 Repositório de roteiros e assets para produção de vídeos publicitários da **The Anchor Records**.
 
+## Setup Rápido
+
+1. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Configure o arquivo `.env` na raiz (baseado nas necessidades de API):
+   ```env
+   OPENAI_API_KEY=sua_chave_aqui
+   DID_API_KEY=sua_chave_did_aqui
+   GOOGLE_DRIVE_FOLDER_ID=id_da_pasta_opcional
+   DROPBOX_ACCESS_TOKEN=token_opcional
+   ```
+
 ## Estrutura
 
 ```

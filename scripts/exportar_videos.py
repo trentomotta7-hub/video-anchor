@@ -289,7 +289,7 @@ def exportar_pasta(pasta: str, destino: str, local_dir: str = None, dry_run: boo
         print(f"[ERRO] Pasta não encontrada: {pasta_path}")
         return
 
-    arquivos = sorted(pasta_path.glob("*.mp4"))
+    arquivos = sorted(pasta_path.rglob("*.mp4"))
     if not arquivos:
         print(f"[AVISO] Nenhum arquivo .mp4 encontrado em {pasta_path}")
         return

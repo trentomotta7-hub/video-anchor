@@ -83,8 +83,11 @@ The Anchor Records.
 Your music deserves to go further."""
 }
 
-output_dir = "/home/ubuntu/video-anchor/assets/vozes"
-os.makedirs(output_dir, exist_ok=True)
+import pathlib
+
+REPO_DIR = pathlib.Path(__file__).parent.parent
+output_dir = REPO_DIR / "assets" / "vozes"
+output_dir.mkdir(parents=True, exist_ok=True)
 
 for nome, texto in roteiros.items():
     print(f"Gerando voz para {nome}...")
@@ -92,10 +95,11 @@ for nome, texto in roteiros.items():
         model="tts-1-hd",
         voice="nova",
         input=texto,
-        speed=0.95
+        speed=0.95,
+        response_format="wav"
     )
-    output_path = f"{output_dir}/{nome}_voz.mp3"
-    response.stream_to_file(output_path)
+    output_path = output_dir / f"{nome}_voz.wav"
+    response.stream_to_file(str(output_path))
     print(f"  Salvo em: {output_path}")
 
 print("\nTodas as vozes geradas com sucesso!")

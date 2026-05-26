@@ -9,11 +9,11 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Data** | 2026-05-22 00:22:09 UTC |
+| **Data** | 2026-05-26 06:36:23 UTC |
 | **Branch Principal** | main |
-| **Total de Commits** | 7 |
-| **Último Commit** | 85f515499db55a4d9549f97c721cfabc75fd4081 docs: adicionar CONTEXTO_PROJETO.md para continuidade do desenvolvimento |
-| **Data do Último Commit** | 2026-05-10 02:28:36 -0400 |
+| **Total de Commits** | 11 |
+| **Último Commit** | 7a41ce8dbb975cfa495f8f499b2a382449e23a34 checkpoint(project): atualização automática de contexto |
+| **Data do Último Commit** | 2026-05-24 23:45:40 +0000 |
 
 ---
 
@@ -21,14 +21,17 @@
 
 **Repositório:** video-anchor  
 **URL:** https://github.com/trentomotta7-hub/video-anchor.git  
-**Tecnologias:**   
-**Total de Arquivos:** 72
+**Tecnologias:** Python  
+**Total de Arquivos:** 88
 
 ---
 
 ## 👥 Autores/Contribuidores
 
 ```
+Checkpoint Perpétuo Bot <checkpoint-bot@trentomotta7-hub.github.io>
+Manus AI <manus@agent.ai>
+trentomotta7-hub <2.66566826e+08+trentomotta7-hub@users.noreply.github.com>
 trentomotta7-hub <266566826+trentomotta7-hub@users.noreply.github.com>
 trentomotta7-hub <trentomotta7@github.com>
 ```
@@ -39,6 +42,8 @@ trentomotta7-hub <trentomotta7@github.com>
 
 ```
 .
+./.project-memory
+./.project-memory/checkpoints
 ./analise
 ./assets
 ./assets/vozes
@@ -57,6 +62,10 @@ trentomotta7-hub <trentomotta7@github.com>
 ## 📜 Histórico de Commits (Últimos 50)
 
 ```
+[33m7a41ce8[m checkpoint(project): atualização automática de contexto
+[33mbb0102d[m feat: implementar fila de processamento, templates de cenário e exportação de vídeos
+[33m99cd1cf[m docs: adicionar scripts e documentação do comando perpétuo
+[33m0465ad6[m feat: implementar sistema de checkpoint perpétuo v2.0
 [33m85f5154[m docs: adicionar CONTEXTO_PROJETO.md para continuidade do desenvolvimento
 [33m13c6835[m feat: vídeos finais com lip-sync real via D-ID API
 [33m0588fac[m feat: vídeos v4 — apresentadora olhar direto, cenário rico, legendas + CTA Groover
@@ -70,42 +79,24 @@ trentomotta7-hub <trentomotta7@github.com>
 
 ## 🎯 Status Atual
 
-Este projeto está **ATIVO** e em desenvolvimento contínuo. Todas as alterações são registradas automaticamente via GitHub Actions.
+Este projeto está **ATIVO** e em desenvolvimento contínuo.
 
-### Pontos de Atenção para Novos Desenvolvedores:
-
-1. **Leia este arquivo primeiro** — ele contém todo o contexto necessário
-2. **Verifique o CHANGELOG.md** — para entender a evolução cronológica
-3. **Consulte o histórico de commits** — mensagens descritivas explicam cada mudança
-4. **GitHub Actions ativo** — toda alteração gera atualização automática deste documento
+### Para Novos Desenvolvedores:
+1. Leia este CONTEXT.md primeiro
+2. Consulte o CHANGELOG.md para evolução cronológica
+3. Verifique o histórico de commits para detalhes
 
 ---
 
-## 🔧 Como Contribuir
+## 🔧 Padrão de Commits
 
-1. Clone o repositório
-2. Crie uma branch a partir de `main`
-3. Faça suas alterações
-4. Commit com mensagem descritiva (padrão: `tipo: descrição`)
-5. Push e abra um Pull Request
-
-### Padrão de Commits:
 - `feat:` — nova funcionalidade
 - `fix:` — correção de bug
 - `docs:` — documentação
 - `chore:` — manutenção
 - `refactor:` — refatoração
-- `style:` — estilo/formatação
-- `test:` — testes
-- `perf:` — performance
 - `ci:` — integração contínua
-
----
-
-## 🔐 Comando Perpétuo
-
-Este repositório possui **atualização automática perpétua** configurada via GitHub Actions.
-Toda vez que um push é feito na branch principal, este documento e o CHANGELOG são atualizados automaticamente.
+- `checkpoint:` — atualização automática
 
 ---
 

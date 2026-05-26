@@ -273,8 +273,98 @@ def execute_render_final(job: dict) -> tuple[bool, str, str]:
 # WORKER PRINCIPAL
 # ============================================================
 
+def execute_render_v4(job: dict) -> tuple[bool, str, str]:
+    """Executa a renderização v4 usando os templates de cenário."""
+    params = job["params"]
+    rid = params["roteiro_id"]
+    template = params.get("template", "default")
+    
+    # Importar dinamicamente para evitar ciclo se houvesse
+    import sys
+    scripts_dir = str(REPO_DIR / "scripts")
+    if scripts_dir not in sys.path:
+        sys.path.insert(0, scripts_dir)
+        
+    try:
+        from templates_cenario import montar_com_template, ROTEIROS
+        
+        # Encontrar o roteiro
+        roteiro = next((r for r in ROTEIROS if r["id"] == rid), None)
+        if not roteiro:
+            return False, "", f"Roteiro {rid} não encontrado nos templates."
+            
+        output_path = montar_com_template(roteiro, template)
+        return True, output_path, ""
+    except Exception as e:
+        return False, "", str(e)
+
+
+def execute_generate_voice(job: dict) -> tuple[bool, str, str]:
+    """Gera a voz para um roteiro usando a API da OpenAI."""
+    params = job["params"]
+    rid = params["roteiro_id"]
+    
+    # Importar dinamicamente o gerar_vozes e executar apenas para o roteiro específico
+    try:
+        import subprocess
+        
+        # Como o gerar_vozes.py roda tudo no nível do módulo atualmente,
+        # vamos usar uma abordagem simples: chamar o script.
+        # Numa refatoração futura, gerar_vozes.py deveria ter funções.
+        log_path = LOG_DIR / f"job_{job['id']}.log"
+        script_path = REPO_DIR / "scripts" / "gerar_vozes.py"
+        
+        ok, err = run_cmd([
+            "python3", str(script_path)
+        ], log_path, "gerar_vozes")
+        
+        if not ok:
+            return False, "", err
+            
+        output_path = str(REPO_DIR / "assets" / "vozes" / f"roteiro_{rid}_voz.wav")
+        if Path(output_path).exists():
+            return True, output_path, ""
+        return False, "", f"Arquivo de voz não gerado: {output_path}"
+    except Exception as e:
+        return False, "", str(e)
+
+
+def execute_did_lipsync(job: dict) -> tuple[bool, str, str]:
+    """Gera o vídeo D-ID para um roteiro."""
+    params = job["params"]
+    rid = params["roteiro_id"]
+    
+    try:
+        # Mesma abordagem do generate_voice por enquanto
+        log_path = LOG_DIR / f"job_{job['id']}.log"
+        script_path = REPO_DIR / "scripts" / "did_generate.py"
+        
+        ok, err = run_cmd([
+            "python3", str(script_path)
+        ], log_path, "did_generate")
+        
+        if not ok:
+            return False, "", err
+            
+        # O nome do arquivo depende do título do roteiro
+        from scripts.did_generate import ROTEIROS
+        roteiro = next((r for r in ROTEIROS if r["id"] == rid), None)
+        if not roteiro:
+            return False, "", f"Roteiro {rid} não encontrado."
+            
+        output_path = str(REPO_DIR / "videos_did" / f"talk_{rid}_{roteiro['titulo']}.mp4")
+        if Path(output_path).exists():
+            return True, output_path, ""
+        return False, "", f"Vídeo D-ID não gerado: {output_path}"
+    except Exception as e:
+        return False, "", str(e)
+
+
 EXECUTORS = {
     "render_final": execute_render_final,
+    "render_v4": execute_render_v4,
+    "generate_voice": execute_generate_voice,
+    "did_lipsync": execute_did_lipsync,
 }
 
 
