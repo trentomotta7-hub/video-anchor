@@ -1,5 +1,25 @@
-openai>=1.0.0
-google-api-python-client>=2.0.0
-google-auth-httplib2>=0.1.0
-google-auth-oauthlib>=1.0.0
-dropbox>=11.0.0
+# ============================================================
+# requirements.txt — Dependências do Projeto Video Anchor
+# The Anchor Records
+# ============================================================
+# Instale com: pip install -r requirements.txt
+
+# ── Core ──────────────────────────────────────────────────
+requests>=2.31.0           # HTTP para D-ID API
+openai>=1.30.0             # TTS via OpenAI
+
+# ── Análise e Visualização ────────────────────────────────
+matplotlib>=3.8.0
+numpy>=1.26.0
+
+# ── Google Drive (exportação) ─────────────────────────────
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.2.0
+google-auth-oauthlib>=1.1.0
+
+# ── Dropbox (exportação) ──────────────────────────────────
+dropbox>=11.36.2
+
+# ── Utilitários ───────────────────────────────────────────
+python-dotenv>=1.0.0       # Carregamento de .env
+Pillow>=10.0.0             # Manipulação de imagens (extract_logo.py)
