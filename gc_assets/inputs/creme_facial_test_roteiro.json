@@ -1,0 +1,33 @@
+{
+  "roteiro": {
+    "take_1_vontade": "Imagina acordar todo dia com a pele lisinha, hidratada e sem uma ruga? Isso é possível sim, olha só!",
+    "take_2_urgencia_dor": "Enquanto você ignora sua pele, as rugas aparecem mais rápido. Cada dia sem cuidado é difícil de recuperar depois.",
+    "take_3_solucao_cta": "Esse creme com vitamina C, colágeno e ácido hialurônico reduz rugas em 30 dias! Por só R$89,90, clica no link agora!",
+    "roteiro_completo": "Imagina acordar todo dia com a pele lisinha, hidratada e sem uma ruga? Isso é possível sim, olha só! Enquanto você ignora sua pele, as rugas aparecem mais rápido. Cada dia sem cuidado é difícil de recuperar depois. Esse creme com vitamina C, colágeno e ácido hialurônico reduz rugas em 30 dias! Por só R$89,90, clica no link agora!",
+    "hook": "Imagina acordar todo dia com a pele lisinha, hidratada e sem uma ruga?",
+    "cta": "Clica no link do produto aqui embaixo e garante o seu antes de acabar o estoque!"
+  },
+  "prompts_imagem": {
+    "angulo_1_desejo": "ultra-realistic product photo, luxury anti-aging face cream jar with gold lid, vitamin C and collagen label, white marble background, dramatic studio lighting, bokeh, 8K, commercial beauty photography, elegant and premium feel",
+    "angulo_2_contexto": "ultra-realistic lifestyle photo, Brazilian woman 35 years old applying anti-aging face cream on cheeks, modern bathroom mirror, soft natural morning lighting, authentic UGC style, no filter look, relatable and genuine expression",
+    "angulo_3_resultado": "ultra-realistic aspirational photo, happy confident Brazilian woman 35 years old, visibly glowing and smooth skin, radiant complexion, golden hour warm lighting, outdoor beautiful setting, natural beauty, before and after transformation vibe"
+  },
+  "hashtags": [
+    "#cremeantidade",
+    "#skincarebrasil",
+    "#tiktokshop",
+    "#belezafeminina",
+    "#antiidade",
+    "#hidratacaofacial",
+    "#vitaminac",
+    "#colageno",
+    "#acidohialuronico",
+    "#pelefeminina",
+    "#rugas",
+    "#skincareroutine",
+    "#dicasdebeleza",
+    "#tiktokshopbrasil",
+    "#belezanatural"
+  ],
+  "titulo_video": "Esse creme acabou com minhas rugas em 30 dias 😱✨ | R$89,90 no link!"
+}
