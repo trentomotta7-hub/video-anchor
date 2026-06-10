@@ -1,0 +1,32 @@
+{
+  "versao": "v9",
+  "produto": "Creme Hidratante Facial Anti-Idade com Colágeno",
+  "persona": "A Usuária Comum",
+  "framework": "Hook de choque confessional → Dor emocional → Revelação do produto → CTA urgente",
+
+  "take_1_problema": {
+    "fala": "Minha pele tava me envergonhando. Eu evitava foto, evitava espelho. Com 32 anos me sentindo com 50.",
+    "headline_tela": "Minha pele tava me envergonhando",
+    "direcao": "Close no rosto, expressão de vergonha e dor real. Sem produto. Mão tocando o rosto com desconforto. Tom confessional, como se estivesse contando pra uma amiga.",
+    "hook_visual": "Close no rosto dela — pele visível, expressão de desconforto genuíno"
+  },
+
+  "take_2_solucao": {
+    "fala": "Aí uma amiga me mandou esse creme. Eu nem acreditei. Mas em duas semanas minha pele ficou outra. Olha a diferença.",
+    "headline_tela": "Em 2 semanas minha pele ficou outra",
+    "direcao": "Começa falando, depois estica o braço pro lado, pega o creme da mesa de forma natural, traz pra frente com surpresa e alívio. Tom de revelação — como se fosse um segredo que descobriu."
+  },
+
+  "take_3_cta": {
+    "fala": "Tá com R$89,90 no TikTok Shop. Corre porque esgota rápido. Link tá aqui embaixo.",
+    "headline_tela": "R$89,90 — Esgotando rápido",
+    "direcao": "Produto em mãos, aponta o dedo pra baixo com urgência real. Tom direto, sem enrolação. Expressão de quem quer que a pessoa compre logo."
+  },
+
+  "notas_producao": {
+    "hook_verbal": "Minha pele tava me envergonhando — confissão pessoal, não estatística",
+    "tom_geral": "Emocional e confessional, não informativo",
+    "headlines": "Grandes, brancas, no topo do frame — expõem a dor antes da fala",
+    "diferenca_v8": "Sem estatísticas, sem ingredientes técnicos, sem linguagem de bula"
+  }
+}
