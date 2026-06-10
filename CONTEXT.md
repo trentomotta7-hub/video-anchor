@@ -9,11 +9,11 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Data** | 2026-06-10 13:54:57 UTC |
+| **Data** | 2026-06-10 15:33:01 UTC |
 | **Branch Principal** | main |
-| **Total de Commits** | 21 |
-| **Último Commit** | 5e49440ebcb0dd235dd05c28dcf50462d9dd14c4 feat: pipeline perpétuo v6 — primeiro vídeo UGC 100% gerado por IA de ponta a ponta |
-| **Data do Último Commit** | 2026-06-10 13:54:57 +0000 |
+| **Total de Commits** | 23 |
+| **Último Commit** | aa40e11c6a8585dc1053901bc3ee77ee597aaea6 feat: UGC v7 — áudio nativo com lip-sync real (generate_audio=true) |
+| **Data do Último Commit** | 2026-06-10 15:33:01 +0000 |
 
 ---
 
@@ -22,7 +22,7 @@
 **Repositório:** video-anchor  
 **URL:** https://github.com/trentomotta7-hub/video-anchor.git  
 **Tecnologias:** Python  
-**Total de Arquivos:** 137
+**Total de Arquivos:** 142
 
 ---
 
@@ -55,6 +55,7 @@ trentomotta7-hub <trentomotta7@github.com>
 ./gc_assets/takes_v5
 ./gc_assets/takes_v6
 ./gc_assets/takes_v6_final
+./gc_assets/takes_v7
 ./gc_output
 ./roteiros
 ./scripts
@@ -72,6 +73,8 @@ trentomotta7-hub <trentomotta7@github.com>
 ## 📜 Histórico de Commits (Últimos 50)
 
 ```
+[33maa40e11[m feat: UGC v7 — áudio nativo com lip-sync real (generate_audio=true)
+[33m41ee19e[m checkpoint: vídeo UGC v6 gerado 100% por IA [skip ci]
 [33m5e49440[m feat: pipeline perpétuo v6 — primeiro vídeo UGC 100% gerado por IA de ponta a ponta
 [33m093e4ba[m checkpoint: pipeline perpétuo UGC implementado [skip ci]
 [33m2df326c[m feat: pipeline perpétuo UGC TikTok Shop — 6 personas, minerador, roteiro Problema→Solução→CTA

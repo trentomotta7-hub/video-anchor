@@ -7,6 +7,16 @@
 ### 2026-06-10
 | Commit | Autor | Mensagem |
 |--------|-------|----------|
+| `aa40e11` | MANUOS IA | feat: UGC v7 — áudio nativo com lip-sync real (generate_audio=true) |
+
+### 2026-06-10
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
+| `41ee19e` | MANUOS IA | checkpoint: vídeo UGC v6 gerado 100% por IA [skip ci] |
+
+### 2026-06-10
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
 | `5e49440` | MANUOS IA | feat: pipeline perpétuo v6 — primeiro vídeo UGC 100% gerado por IA de ponta a ponta |
 
 ### 2026-06-10
@@ -111,4 +121,4 @@
 
 
 ---
-*Última atualização: 2026-06-10 13:54:57 UTC*
+*Última atualização: 2026-06-10 15:33:01 UTC*
