@@ -1,0 +1,121 @@
+{
+  "version": "1.0",
+  "updated": "2026-06-10",
+  "description": "6 Personas UGC para TikTok Shop Brasil — cada persona tem prompt base fixo, tom de voz e arquétipos de storytelling",
+  "personas": [
+    {
+      "id": "especialista",
+      "nome": "A Especialista",
+      "arquetipo": "Especialista de Confiança",
+      "nicho": ["beleza", "saúde", "suplementos", "skincare", "nutrição"],
+      "tom_de_voz": "técnico-acessível, confiante, educativo, sem jargões excessivos",
+      "gatilhos_emocionais": ["confiança", "autoridade", "prova social", "resultado comprovado"],
+      "prompt_base_imagem": "UGC TikTok Shop presenter. Brazilian woman, late 20s to early 30s, professional appearance, medium brown skin, straight dark hair pulled back neatly, wearing a white lab coat or clean white blouse. Bright modern home office or clean kitchen background, white walls, natural daylight. Medium shot waist up, eye level. Holds product clearly visible. Authentic, no heavy studio lighting. Vertical 9:16. Confident, knowledgeable expression.",
+      "estilo_fala": {
+        "take1_dor": "Você sabia que [PROBLEMA] afeta [X]% das pessoas? Eu mesma sofri com isso por anos.",
+        "take2_solucao": "Depois de testar [PRODUTO], os resultados foram impressionantes. [BENEFÍCIO TÉCNICO] em apenas [TEMPO].",
+        "take3_cta": "Clica no link agora e garante o seu. Estoque limitado!"
+      },
+      "angulos": {
+        "angulo_1": "Produto em close com ingredientes/componentes visíveis, fundo clean branco, iluminação de estúdio suave",
+        "angulo_2": "Persona aplicando/usando o produto, expressão de concentração e aprovação, ambiente profissional",
+        "angulo_3": "Persona sorrindo com resultado, produto em mãos, polegar para cima"
+      }
+    },
+    {
+      "id": "usuario_comum",
+      "nome": "A Usuária Comum",
+      "arquetipo": "Pessoa Relatável",
+      "nicho": ["beleza", "casa", "moda", "pet", "alimentação", "organização"],
+      "tom_de_voz": "informal, caloroso, honesto, como uma amiga contando uma descoberta",
+      "gatilhos_emocionais": ["identificação", "curiosidade", "transformação", "surpresa positiva"],
+      "prompt_base_imagem": "UGC TikTok Shop presenter. Natural Brazilian woman, early 30s, medium brown skin, long dark wavy hair loose, casual white ribbed tank top or simple colorful t-shirt. Bright home bathroom or living room, white tiles or warm-toned walls, natural daylight from window, plant in background. Medium shot waist up, eye level. Holds product clearly visible. Authentic, no studio lighting. Vertical 9:16. Warm, relatable expression.",
+      "estilo_fala": {
+        "take1_dor": "Gente, eu tava desesperada com [PROBLEMA]. Tentei de tudo e nada resolvia!",
+        "take2_solucao": "Aí uma amiga me indicou esse [PRODUTO] e olha... em [TEMPO] minha vida mudou!",
+        "take3_cta": "Tá no link aqui embaixo, corre que tá com desconto!"
+      },
+      "angulos": {
+        "angulo_1": "Produto em mãos com expressão de surpresa positiva, ambiente doméstico natural",
+        "angulo_2": "Persona usando o produto no cotidiano, expressão de alívio e satisfação",
+        "angulo_3": "Persona apontando para o produto com sorriso, ambiente familiar e acolhedor"
+      }
+    },
+    {
+      "id": "comparador",
+      "nome": "O Comparador",
+      "arquetipo": "Cético que Aprova",
+      "nicho": ["tecnologia", "ferramentas", "produtos de limpeza", "suplementos", "gadgets"],
+      "tom_de_voz": "direto, analítico, honesto, cético mas convencido",
+      "gatilhos_emocionais": ["ceticismo superado", "prova concreta", "antes/depois", "comparação objetiva"],
+      "prompt_base_imagem": "UGC TikTok Shop presenter. Brazilian person, mid 30s, neutral expression that becomes impressed, medium skin tone, casual but neat clothing (polo shirt or simple button-down). Clean home background, kitchen counter or desk, good natural lighting. Medium shot waist up, eye level. Holds product and a competing product or shows before/after. Authentic, no studio lighting. Vertical 9:16.",
+      "estilo_fala": {
+        "take1_dor": "Olha, eu não acreditava que [PRODUTO] ia funcionar. Já gastei dinheiro com [ALTERNATIVA RUIM] antes.",
+        "take2_solucao": "Mas resolvi testar. E o resultado foi [RESULTADO ESPECÍFICO]. Olha a diferença!",
+        "take3_cta": "Tô recomendando porque realmente funciona. Link aqui embaixo, vai lá!"
+      },
+      "angulos": {
+        "angulo_1": "Produto lado a lado com alternativa inferior, iluminação clara para comparação",
+        "angulo_2": "Demonstração prática do produto em uso, resultado visível em tempo real",
+        "angulo_3": "Persona com expressão de aprovação genuína, produto em destaque"
+      }
+    },
+    {
+      "id": "influenciadora_estilo",
+      "nome": "A Influenciadora de Estilo",
+      "arquetipo": "Trendsetter Aspiracional",
+      "nicho": ["moda", "beleza", "lifestyle", "acessórios", "perfumes", "decoração"],
+      "tom_de_voz": "animado, inspirador, trendy, usa gírias atuais, aspiracional",
+      "gatilhos_emocionais": ["status", "pertencimento", "exclusividade", "tendência", "FOMO"],
+      "prompt_base_imagem": "UGC TikTok Shop presenter. Stylish Brazilian woman, mid 20s, light to medium brown skin, perfectly styled hair (waves or sleek), fashionable outfit (trendy top, jewelry). Aesthetic home background — pink or beige tones, ring light visible, aesthetic decor. Medium shot waist up, eye level. Holds product stylishly. Vertical 9:16. Confident, glamorous but approachable expression.",
+      "estilo_fala": {
+        "take1_dor": "Gente, eu precisava de [PRODUTO] na minha vida há tanto tempo! Olha esse [PROBLEMA] que eu tinha!",
+        "take2_solucao": "Esse aqui é o [PRODUTO] que todo mundo tá usando agora. Olha como ficou [RESULTADO VISUAL]!",
+        "take3_cta": "Corre no link, tá com preço incrível! Não perde essa!"
+      },
+      "angulos": {
+        "angulo_1": "Produto em flat lay estético, cores harmoniosas, iluminação dourada",
+        "angulo_2": "Persona usando/aplicando o produto de forma glamourosa, resultado visual impactante",
+        "angulo_3": "Persona posando com produto, estilo editorial mas autêntico, fundo aesthetic"
+      }
+    },
+    {
+      "id": "solucionador_pratico",
+      "nome": "O Solucionador Prático",
+      "arquetipo": "Especialista em Praticidade",
+      "nicho": ["ferramentas", "organização", "produtividade", "casa", "tecnologia", "limpeza"],
+      "tom_de_voz": "objetivo, rápido, prático, sem enrolação, foca no resultado imediato",
+      "gatilhos_emocionais": ["praticidade", "economia de tempo", "eficiência", "resultado rápido"],
+      "prompt_base_imagem": "UGC TikTok Shop presenter. Brazilian person, 30s, practical appearance, medium skin tone, simple clean clothing (t-shirt, jeans). Home or workspace background — organized, functional. Medium shot waist up, eye level. Demonstrates product in use. Authentic, good natural lighting. Vertical 9:16. Focused, no-nonsense expression.",
+      "estilo_fala": {
+        "take1_dor": "Você ainda perde [TEMPO/DINHEIRO] com [PROBLEMA]? Eu também ficava assim.",
+        "take2_solucao": "Com esse [PRODUTO], resolvi em [TEMPO CURTO]. Olha como é simples!",
+        "take3_cta": "Link aqui embaixo. Simples assim, vai lá!"
+      },
+      "angulos": {
+        "angulo_1": "Produto em uso prático, demonstração clara da funcionalidade, fundo funcional",
+        "angulo_2": "Resultado imediato e visível do produto em ação, expressão de satisfação",
+        "angulo_3": "Produto com destaque no resultado prático, persona aprovando com gesto"
+      }
+    },
+    {
+      "id": "mae_pratica",
+      "nome": "A Mãe Prática",
+      "arquetipo": "Guardiã da Família",
+      "nicho": ["produtos infantis", "alimentação", "limpeza", "organização", "saúde familiar", "economia"],
+      "tom_de_voz": "carinhoso, prático, focado em custo-benefício e segurança familiar",
+      "gatilhos_emocionais": ["proteção familiar", "economia", "segurança", "praticidade materna"],
+      "prompt_base_imagem": "UGC TikTok Shop presenter. Brazilian mother figure, 30s, warm and approachable, medium brown skin, hair in a practical style (ponytail or loose waves), casual home clothing (comfortable top). Warm home background — kitchen, living room with family touches, natural daylight. Medium shot waist up, eye level. Holds product. Authentic, warm lighting. Vertical 9:16. Caring, practical expression.",
+      "estilo_fala": {
+        "take1_dor": "Mãe, você conhece aquele [PROBLEMA] que a gente enfrenta todo dia em casa? Eu vivia com isso!",
+        "take2_solucao": "Esse [PRODUTO] resolveu tudo! É seguro, funciona e ainda economiza [TEMPO/DINHEIRO].",
+        "take3_cta": "Tô indicando pra todas as mães! Link aqui embaixo, aproveita o preço!"
+      },
+      "angulos": {
+        "angulo_1": "Produto em ambiente familiar e acolhedor, iluminação quente, foco no produto",
+        "angulo_2": "Persona usando produto no contexto familiar, expressão de alívio e cuidado",
+        "angulo_3": "Persona sorrindo com produto, ambiente doméstico aconchegante, gesto de recomendação"
+      }
+    }
+  ]
+}
