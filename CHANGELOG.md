@@ -4,6 +4,36 @@
 
 ---
 
+### 2026-06-10
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
+| `d3853e2` | MANUOS IA | feat: adicionar creme_facial_FINAL_v5 — 24s, 3 takes 8s, 720x1280, 24fps |
+
+### 2026-06-09
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
+| `fae8152` | trentomotta7-hub | feat: pipeline UGC v2 — takes de vídeo reais, textos nativos TikTok, corte direto |
+
+### 2026-06-09
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
+| `be55ebe` | trentomotta7-hub | feat: pipeline GC UGC — takes de vídeo reais gerados por IA, montagem final 27s |
+
+### 2026-06-09
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
+| `2b2c61c` | trentomotta7-hub | feat: pipeline GC completo — geração de vídeos 25s para TikTok Shop Brasil |
+
+### 2026-05-26
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
+| `f678af3` | trentomotta7-hub | feat: adicionar pipeline orquestrador, testes automatizados e melhorias de documentação |
+
+### 2026-05-26
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
+| `a39eec9` | Manus AI | fix: corrigir bugs críticos e melhorar segurança e portabilidade |
+
 ### 2026-05-24
 | Commit | Autor | Mensagem |
 |--------|-------|----------|
@@ -61,4 +91,4 @@
 
 
 ---
-*Última atualização: 2026-05-26 06:36:23 UTC*
+*Última atualização: 2026-06-10 12:37:50 UTC*

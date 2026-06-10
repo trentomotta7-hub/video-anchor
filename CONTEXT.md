@@ -9,11 +9,11 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Data** | 2026-05-26 06:36:23 UTC |
+| **Data** | 2026-06-10 12:37:50 UTC |
 | **Branch Principal** | main |
-| **Total de Commits** | 11 |
-| **Último Commit** | 7a41ce8dbb975cfa495f8f499b2a382449e23a34 checkpoint(project): atualização automática de contexto |
-| **Data do Último Commit** | 2026-05-24 23:45:40 +0000 |
+| **Total de Commits** | 17 |
+| **Último Commit** | d3853e2dbfadda88d3c1839519f993229cd84c84 feat: adicionar creme_facial_FINAL_v5 — 24s, 3 takes 8s, 720x1280, 24fps |
+| **Data do Último Commit** | 2026-06-10 12:37:43 +0000 |
 
 ---
 
@@ -22,7 +22,7 @@
 **Repositório:** video-anchor  
 **URL:** https://github.com/trentomotta7-hub/video-anchor.git  
 **Tecnologias:** Python  
-**Total de Arquivos:** 88
+**Total de Arquivos:** 115
 
 ---
 
@@ -30,7 +30,9 @@
 
 ```
 Checkpoint Perpétuo Bot <checkpoint-bot@trentomotta7-hub.github.io>
+MANUOS IA <manuos-ia@trentomotta7.dev>
 Manus AI <manus@agent.ai>
+Manus AI <manus@manus.ai>
 trentomotta7-hub <2.66566826e+08+trentomotta7-hub@users.noreply.github.com>
 trentomotta7-hub <266566826+trentomotta7-hub@users.noreply.github.com>
 trentomotta7-hub <trentomotta7@github.com>
@@ -48,8 +50,14 @@ trentomotta7-hub <trentomotta7@github.com>
 ./assets
 ./assets/vozes
 ./clips
+./gc_assets
+./gc_assets/inputs
+./gc_assets/takes_v5
+./gc_output
 ./roteiros
 ./scripts
+./takes_extraidos
+./takes_v5
 ./videos
 ./videos_did
 ./videos_final
@@ -62,6 +70,12 @@ trentomotta7-hub <trentomotta7@github.com>
 ## 📜 Histórico de Commits (Últimos 50)
 
 ```
+[33md3853e2[m feat: adicionar creme_facial_FINAL_v5 — 24s, 3 takes 8s, 720x1280, 24fps
+[33mfae8152[m feat: pipeline UGC v2 — takes de vídeo reais, textos nativos TikTok, corte direto
+[33mbe55ebe[m feat: pipeline GC UGC — takes de vídeo reais gerados por IA, montagem final 27s
+[33m2b2c61c[m feat: pipeline GC completo — geração de vídeos 25s para TikTok Shop Brasil
+[33mf678af3[m feat: adicionar pipeline orquestrador, testes automatizados e melhorias de documentação
+[33ma39eec9[m fix: corrigir bugs críticos e melhorar segurança e portabilidade
 [33m7a41ce8[m checkpoint(project): atualização automática de contexto
 [33mbb0102d[m feat: implementar fila de processamento, templates de cenário e exportação de vídeos
 [33m99cd1cf[m docs: adicionar scripts e documentação do comando perpétuo
