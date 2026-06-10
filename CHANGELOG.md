@@ -7,6 +7,16 @@
 ### 2026-06-10
 | Commit | Autor | Mensagem |
 |--------|-------|----------|
+| `2056e9f` | MANUOS IA | feat: UGC v8 — keyframes fixos, Take 1 sem produto, Take 2 pega da mesa, Take 3 CTA |
+
+### 2026-06-10
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
+| `a26fb97` | MANUOS IA | checkpoint: UGC v7 lip-sync nativo [skip ci] |
+
+### 2026-06-10
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
 | `aa40e11` | MANUOS IA | feat: UGC v7 — áudio nativo com lip-sync real (generate_audio=true) |
 
 ### 2026-06-10
@@ -121,4 +131,4 @@
 
 
 ---
-*Última atualização: 2026-06-10 15:33:01 UTC*
+*Última atualização: 2026-06-10 15:50:59 UTC*
