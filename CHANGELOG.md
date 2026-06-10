@@ -7,6 +7,16 @@
 ### 2026-06-10
 | Commit | Autor | Mensagem |
 |--------|-------|----------|
+| `2df326c` | MANUOS IA | feat: pipeline perpétuo UGC TikTok Shop — 6 personas, minerador, roteiro Problema→Solução→CTA |
+
+### 2026-06-10
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
+| `c61b265` | MANUOS IA | checkpoint: atualização automática após creme_facial_FINAL_v5 [skip ci] |
+
+### 2026-06-10
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
 | `d3853e2` | MANUOS IA | feat: adicionar creme_facial_FINAL_v5 — 24s, 3 takes 8s, 720x1280, 24fps |
 
 ### 2026-06-09
@@ -91,4 +101,4 @@
 
 
 ---
-*Última atualização: 2026-06-10 12:37:50 UTC*
+*Última atualização: 2026-06-10 12:50:49 UTC*
