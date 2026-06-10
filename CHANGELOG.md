@@ -7,6 +7,16 @@
 ### 2026-06-10
 | Commit | Autor | Mensagem |
 |--------|-------|----------|
+| `5e49440` | MANUOS IA | feat: pipeline perpétuo v6 — primeiro vídeo UGC 100% gerado por IA de ponta a ponta |
+
+### 2026-06-10
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
+| `093e4ba` | MANUOS IA | checkpoint: pipeline perpétuo UGC implementado [skip ci] |
+
+### 2026-06-10
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
 | `2df326c` | MANUOS IA | feat: pipeline perpétuo UGC TikTok Shop — 6 personas, minerador, roteiro Problema→Solução→CTA |
 
 ### 2026-06-10
@@ -101,4 +111,4 @@
 
 
 ---
-*Última atualização: 2026-06-10 12:50:49 UTC*
+*Última atualização: 2026-06-10 13:54:57 UTC*

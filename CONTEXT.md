@@ -9,11 +9,11 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Data** | 2026-06-10 12:50:49 UTC |
+| **Data** | 2026-06-10 13:54:57 UTC |
 | **Branch Principal** | main |
-| **Total de Commits** | 19 |
-| **Último Commit** | 2df326c486f6cd1e2797bd546f8a83b05ffa91dc feat: pipeline perpétuo UGC TikTok Shop — 6 personas, minerador, roteiro Problema→Solução→CTA |
-| **Data do Último Commit** | 2026-06-10 12:50:49 +0000 |
+| **Total de Commits** | 21 |
+| **Último Commit** | 5e49440ebcb0dd235dd05c28dcf50462d9dd14c4 feat: pipeline perpétuo v6 — primeiro vídeo UGC 100% gerado por IA de ponta a ponta |
+| **Data do Último Commit** | 2026-06-10 13:54:57 +0000 |
 
 ---
 
@@ -22,7 +22,7 @@
 **Repositório:** video-anchor  
 **URL:** https://github.com/trentomotta7-hub/video-anchor.git  
 **Tecnologias:** Python  
-**Total de Arquivos:** 123
+**Total de Arquivos:** 137
 
 ---
 
@@ -53,6 +53,8 @@ trentomotta7-hub <trentomotta7@github.com>
 ./gc_assets
 ./gc_assets/inputs
 ./gc_assets/takes_v5
+./gc_assets/takes_v6
+./gc_assets/takes_v6_final
 ./gc_output
 ./roteiros
 ./scripts
@@ -70,6 +72,8 @@ trentomotta7-hub <trentomotta7@github.com>
 ## 📜 Histórico de Commits (Últimos 50)
 
 ```
+[33m5e49440[m feat: pipeline perpétuo v6 — primeiro vídeo UGC 100% gerado por IA de ponta a ponta
+[33m093e4ba[m checkpoint: pipeline perpétuo UGC implementado [skip ci]
 [33m2df326c[m feat: pipeline perpétuo UGC TikTok Shop — 6 personas, minerador, roteiro Problema→Solução→CTA
 [33mc61b265[m checkpoint: atualização automática após creme_facial_FINAL_v5 [skip ci]
 [33md3853e2[m feat: adicionar creme_facial_FINAL_v5 — 24s, 3 takes 8s, 720x1280, 24fps
