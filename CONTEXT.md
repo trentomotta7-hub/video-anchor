@@ -9,11 +9,11 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Data** | 2026-06-10 15:50:59 UTC |
+| **Data** | 2026-06-10 16:29:10 UTC |
 | **Branch Principal** | main |
-| **Total de Commits** | 25 |
-| **Último Commit** | 2056e9facd1e6cb4540fa3d4bb735ab53c98ab41 feat: UGC v8 — keyframes fixos, Take 1 sem produto, Take 2 pega da mesa, Take 3 CTA |
-| **Data do Último Commit** | 2026-06-10 15:50:59 +0000 |
+| **Total de Commits** | 27 |
+| **Último Commit** | 5a1fa8acd2ef8423bdaa0137cc44a36ad838259a feat: UGC v9 — hook confessional, headlines de dor, CTA urgente |
+| **Data do Último Commit** | 2026-06-10 16:29:10 +0000 |
 
 ---
 
@@ -22,7 +22,7 @@
 **Repositório:** video-anchor  
 **URL:** https://github.com/trentomotta7-hub/video-anchor.git  
 **Tecnologias:** Python  
-**Total de Arquivos:** 152
+**Total de Arquivos:** 162
 
 ---
 
@@ -53,11 +53,13 @@ trentomotta7-hub <trentomotta7@github.com>
 ./gc_assets
 ./gc_assets/inputs
 ./gc_assets/kf
+./gc_assets/kf_v9
 ./gc_assets/takes_v5
 ./gc_assets/takes_v6
 ./gc_assets/takes_v6_final
 ./gc_assets/takes_v7
 ./gc_assets/takes_v8
+./gc_assets/takes_v9
 ./gc_output
 ./roteiros
 ./scripts
@@ -75,6 +77,8 @@ trentomotta7-hub <trentomotta7@github.com>
 ## 📜 Histórico de Commits (Últimos 50)
 
 ```
+[33m5a1fa8a[m feat: UGC v9 — hook confessional, headlines de dor, CTA urgente
+[33m4c09409[m checkpoint: UGC v8 keyframes fixos [skip ci]
 [33m2056e9f[m feat: UGC v8 — keyframes fixos, Take 1 sem produto, Take 2 pega da mesa, Take 3 CTA
 [33ma26fb97[m checkpoint: UGC v7 lip-sync nativo [skip ci]
 [33maa40e11[m feat: UGC v7 — áudio nativo com lip-sync real (generate_audio=true)

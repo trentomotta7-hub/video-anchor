@@ -7,6 +7,16 @@
 ### 2026-06-10
 | Commit | Autor | Mensagem |
 |--------|-------|----------|
+| `5a1fa8a` | MANUOS IA | feat: UGC v9 — hook confessional, headlines de dor, CTA urgente |
+
+### 2026-06-10
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
+| `4c09409` | MANUOS IA | checkpoint: UGC v8 keyframes fixos [skip ci] |
+
+### 2026-06-10
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
 | `2056e9f` | MANUOS IA | feat: UGC v8 — keyframes fixos, Take 1 sem produto, Take 2 pega da mesa, Take 3 CTA |
 
 ### 2026-06-10
@@ -131,4 +141,4 @@
 
 
 ---
-*Última atualização: 2026-06-10 15:50:59 UTC*
+*Última atualização: 2026-06-10 16:29:10 UTC*
