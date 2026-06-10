@@ -7,6 +7,16 @@
 ### 2026-06-10
 | Commit | Autor | Mensagem |
 |--------|-------|----------|
+| `82933d8` | MANUOS IA | feat: Pipeline UGC v10 — vídeo contínuo, sem cortes, sem legendas |
+
+### 2026-06-10
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
+| `18c4c41` | MANUOS IA | checkpoint: UGC v9 hook confessional [skip ci] |
+
+### 2026-06-10
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
 | `5a1fa8a` | MANUOS IA | feat: UGC v9 — hook confessional, headlines de dor, CTA urgente |
 
 ### 2026-06-10
@@ -141,4 +151,4 @@
 
 
 ---
-*Última atualização: 2026-06-10 16:29:10 UTC*
+*Última atualização: 2026-06-10 16:47:24 UTC*

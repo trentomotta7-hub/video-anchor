@@ -9,11 +9,11 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Data** | 2026-06-10 16:29:10 UTC |
+| **Data** | 2026-06-10 16:47:24 UTC |
 | **Branch Principal** | main |
-| **Total de Commits** | 27 |
-| **Último Commit** | 5a1fa8acd2ef8423bdaa0137cc44a36ad838259a feat: UGC v9 — hook confessional, headlines de dor, CTA urgente |
-| **Data do Último Commit** | 2026-06-10 16:29:10 +0000 |
+| **Total de Commits** | 29 |
+| **Último Commit** | 82933d81ca4610cdbca0f6086ab659a69b2ea8b4 feat: Pipeline UGC v10 — vídeo contínuo, sem cortes, sem legendas |
+| **Data do Último Commit** | 2026-06-10 16:47:24 +0000 |
 
 ---
 
@@ -22,7 +22,7 @@
 **Repositório:** video-anchor  
 **URL:** https://github.com/trentomotta7-hub/video-anchor.git  
 **Tecnologias:** Python  
-**Total de Arquivos:** 162
+**Total de Arquivos:** 164
 
 ---
 
@@ -77,6 +77,8 @@ trentomotta7-hub <trentomotta7@github.com>
 ## 📜 Histórico de Commits (Últimos 50)
 
 ```
+[33m82933d8[m feat: Pipeline UGC v10 — vídeo contínuo, sem cortes, sem legendas
+[33m18c4c41[m checkpoint: UGC v9 hook confessional [skip ci]
 [33m5a1fa8a[m feat: UGC v9 — hook confessional, headlines de dor, CTA urgente
 [33m4c09409[m checkpoint: UGC v8 keyframes fixos [skip ci]
 [33m2056e9f[m feat: UGC v8 — keyframes fixos, Take 1 sem produto, Take 2 pega da mesa, Take 3 CTA
