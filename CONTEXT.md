@@ -9,11 +9,11 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Data** | 2026-06-11 21:57:18 UTC |
+| **Data** | 2026-06-11 21:59:51 UTC |
 | **Branch Principal** | main |
-| **Total de Commits** | 33 |
-| **Último Commit** | b9473b9b791e58c040361f238e0b3aaf3dac75ec docs: definir operador autonomo de receita |
-| **Data do Último Commit** | 2026-06-11 21:53:25 +0000 |
+| **Total de Commits** | 34 |
+| **Último Commit** | bccb4aad6f03227b764cb75c1c3efaf5c129244b docs: selecionar primeira oportunidade UGC rentavel |
+| **Data do Último Commit** | 2026-06-11 21:57:18 +0000 |
 
 ---
 
@@ -22,7 +22,7 @@
 **Repositório:** video-anchor  
 **URL:** https://github.com/trentomotta7-hub/video-anchor.git  
 **Tecnologias:** Python  
-**Total de Arquivos:** 157
+**Total de Arquivos:** 162
 
 ---
 
@@ -50,6 +50,8 @@ trentomotta7-hub <trentomotta7@github.com>
 ./assets
 ./assets/vozes
 ./clips
+./creative_packs
+./creative_packs/001_skincare_serum
 ./data
 ./docs
 ./gc_assets
@@ -63,7 +65,10 @@ trentomotta7-hub <trentomotta7@github.com>
 ./gc_assets/takes_v8
 ./gc_assets/takes_v9
 ./gc_output
+./prompts
+./prompts/001_skincare_serum
 ./roteiros
+./roteiros/001_skincare_serum
 ./scripts
 ./videos
 ./videos_did
@@ -77,6 +82,7 @@ trentomotta7-hub <trentomotta7@github.com>
 ## 📜 Histórico de Commits (Últimos 50)
 
 ```
+[33mbccb4aa[m docs: selecionar primeira oportunidade UGC rentavel
 [33mb9473b9[m docs: definir operador autonomo de receita
 [33mc1c6136[m docs: definir politica de checkpoint GitHub
 [33m4ca6730[m docs: estruturar maquina UGC TikTok Shop rentavel

@@ -1,0 +1,78 @@
+{
+  "creative_pack_id": "001_skincare_serum",
+  "status": "ready_for_generation",
+  "product": "serum_ou_creme_facial_hidratante_com_aplicador_massageador",
+  "niche": "beleza_e_skincare",
+  "primary_persona": "bia_skincare_realista",
+  "commercial_hypothesis": "Um video UGC de amiga realista, com ceticismo inicial e prova visual de textura/aplicacao, tem maior chance de gerar interesse do que um anuncio polido de skincare.",
+  "primary_hook": "Eu achei que isso era so mais um produtinho hypado...",
+  "cta": "Se quiser testar, deixei no carrinho aqui embaixo.",
+  "safe_claims": [
+    "aparencia mais vicosa",
+    "sensacao geladinha",
+    "rotina mais facil de manter",
+    "textura leve",
+    "acabamento bonito"
+  ],
+  "forbidden_claims": [
+    "cura acne",
+    "elimina rugas",
+    "clareia manchas",
+    "rejuvenesce",
+    "resultado garantido",
+    "milagre"
+  ],
+  "variants": [
+    {
+      "variant_id": "001A",
+      "hook": "Eu achei que isso era so mais um produtinho hypado...",
+      "angle": "ceticismo_convertido",
+      "priority": 1
+    },
+    {
+      "variant_id": "001B",
+      "hook": "Se sua pele acorda com cara de cansada, olha isso.",
+      "angle": "dor_direta",
+      "priority": 2
+    },
+    {
+      "variant_id": "001C",
+      "hook": "A textura disso aqui foi o que me pegou.",
+      "angle": "sensorial_textura",
+      "priority": 3
+    },
+    {
+      "variant_id": "001D",
+      "hook": "Testei pra voce nao comprar no escuro.",
+      "angle": "reducao_de_risco",
+      "priority": 4
+    },
+    {
+      "variant_id": "001E",
+      "hook": "Agora eu entendi por que isso ta aparecendo tanto.",
+      "angle": "social_proof_leve",
+      "priority": 5
+    }
+  ],
+  "production_requirements": {
+    "duration_seconds": 24,
+    "aspect_ratio": "9:16",
+    "single_take": true,
+    "no_cuts": true,
+    "no_captions": true,
+    "no_banners": true,
+    "product_visible_by_second": 5,
+    "language": "pt-BR",
+    "cta_gesture": "point_down"
+  },
+  "metrics_to_watch_after_publishing": [
+    "retencao_2s",
+    "retencao_6s",
+    "comentarios_de_intencao",
+    "cliques_no_produto",
+    "adicoes_ao_carrinho",
+    "conversoes",
+    "cpa",
+    "gmv"
+  ]
+}
