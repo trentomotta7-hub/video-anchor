@@ -1,0 +1,3 @@
+file '/home/ubuntu/trabalho_video/video-anchor/gc_output/creative_001_take1_hook_produto.mp4'
+file '/home/ubuntu/trabalho_video/video-anchor/gc_output/creative_001_take2_aplicacao.mp4'
+file '/home/ubuntu/trabalho_video/video-anchor/gc_output/creative_001_take3_cta.mp4'

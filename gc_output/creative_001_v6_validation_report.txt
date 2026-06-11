@@ -1,0 +1,32 @@
+Starting video analysis...
+Submitting video analysis task...
+Task submitted (ID: video-analysis-28aaf4d8-ea9b-4863-9f5e-73d6d61a533c)
+[8s] Status: Analyzing video content with AI...
+[21s] Status: Analysis completed
+[21s] Analysis completed!
+Full analysis result saved to: /home/ubuntu/video_creative_001_v6_24s_three_takes_REAL_FOOTAGE_DRAFT_analysis_20260611_230208.md
+Note: This tool performs AI-based visual and audio analysis, not verbatim transcription. For detailed speech transcription, use `manus-speech-to-text` instead.
+Analysis result:
+
+Com base em uma análise rigorosa do vídeo fornecido, aqui está o detalhamento dos critérios solicitados para entrega como TikTok Shop UGC:
+
+**Análise de Critérios:**
+
+*   **Duração:** 24 segundos. (Atende ao tempo total, mas falha na estrutura).
+*   **Formato vertical:** Sim (9:16).
+*   **Três takes de 8 segundos:** **Reprovado.** O vídeo é composto por um único take contínuo (um loop visual) do início ao fim. Não há cortes ou mudanças de cena.
+*   **Consistência de pessoa, produto e ambiente:** Mantida, mas apenas porque se trata de uma única cena estática que não muda.
+*   **Presença de movimento humano real:** **Reprovado.** Não há movimento humano real. A modelo (rosto, boca, ombros) e a mão que segura o frasco estão **completamente congeladas**. O vídeo é, na verdade, uma imagem estática (foto) com um efeito digital de animação aplicado apenas na gota caindo do conta-gotas (efeito conhecido como *cinemagraph*). Falta a micro-movimentação natural de respiração ou pulso.
+*   **Alucinações, deformações, troca de cenário/produto/personagem:** Não há trocas ou deformações grotescas, pois é uma imagem estática, mas a falta de movimento humano a torna artificial.
+*   **Aparência de IA / Manipulação:** Sim. Parece uma foto de banco de imagens (stock photo) manipulada digitalmente para ter um elemento em movimento. Não tem a estética orgânica e autêntica exigida para um UGC (User Generated Content).
+*   **Presença de marca d’água:** **Reprovado criticamente.** Há uma marca d'água gigante e translúcida da plataforma de banco de imagens **"Vecteezy"** bem no centro da tela durante todos os 24 segundos.
+*   **Draft real-footage ou final comercial:** Nenhum dos dois. Trata-se de um teste ou rascunho feito com material de banco de imagens com direitos autorais pendentes (devido à marca d'água) e textos sobrepostos.
+
+### Veredito Objetivo:
+**REPROVADO E INUTILIZÁVEL.**
+
+O vídeo não pode ser entregue nem como draft de *real-footage* nem como comercial final. Ele falha nos requisitos mais básicos de um UGC para TikTok Shop:
+1.  Contém marca d'água de banco de imagens (Vecteezy).
+2.  Não possui movimento humano real (é uma foto animada).
+3.  Não obedece à estrutura solicitada de 3 takes de 8 segundos.
+4.  Não possui a estética autêntica de conteúdo gerado por usuário.

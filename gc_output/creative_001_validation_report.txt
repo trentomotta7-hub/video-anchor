@@ -1,0 +1,35 @@
+Starting video analysis...
+Submitting video analysis task...
+Task submitted (ID: video-analysis-f35cc9b9-d7c5-4fb8-87f6-26a8e2d04158)
+[8s] Status: Analyzing video content with AI...
+[27s] Status: Analysis completed
+[27s] Analysis completed!
+Full analysis result saved to: /home/ubuntu/video_creative_001_skincare_serum_24s_FINAL_analysis_20260611_222336.md
+Note: This tool performs AI-based visual and audio analysis, not verbatim transcription. For detailed speech transcription, use `manus-speech-to-text` instead.
+Analysis result:
+
+Com base na análise detalhada dos quadros e do áudio do vídeo fornecido, aqui está a avaliação objetiva dos critérios solicitados:
+
+**Análise dos Critérios:**
+
+*   **Duração Aproximada:** O vídeo tem cerca de 24 segundos.
+*   **Formato:** O vídeo está em formato vertical (proporção 9:16), padrão para redes sociais como TikTok, Reels e Shorts.
+*   **Quantidade de Takes:** A afirmação de que há três takes é **falsa**. O vídeo possui pelo menos **5 cortes/takes** distintos (0:00, 0:02, 0:08, 0:16 e 0:21).
+*   **Consistência da Personagem:** **Positiva.** A mulher (roupão bege, cabelo preso, brincos) mantém a mesma aparência e vestimenta ao longo de todos os cortes. Não há troca de pessoa.
+*   **Consistência do Ambiente:** **Positiva.** O cenário de fundo (banheiro com armários brancos, espelho, bancada de granito e janela refletindo árvores) permanece consistente do início ao fim.
+*   **Consistência do Produto:** **Negativa.** O produto sofre mutações claras. Ele inicia com um aplicador *roll-on* metálico, no segundo take aparece com uma haste/espátula (como um gloss), volta a ser *roll-on* metálico e, no último take (0:21), a ponta se transforma em uma esfera de plástico branco opaco.
+*   **Aparência Artificial Evidente:** **Sim, muito evidente.** O movimento labial (*lip-sync*) está completamente dessincronizado em relação ao áudio em português. A boca se move de forma incompatível com os fonemas pronunciados.
+*   **Legendas ou Banners:** Não há legendas transcrevendo a fala. No entanto, no último take (a partir de 0:21), aparece um **banner/overlay do "TikTok Shop"** na parte inferior da tela, junto com um ícone de carrinho de compras.
+*   **Alucinações Visuais Graves:**
+    *   **Mãos deformadas:** Sim. As mãos apresentam anomalias. No take em que ela mostra a haste (0:04), os dedos segurando o frasco parecem fundidos. No último take (0:21), o dedo indicador que aponta para baixo tem uma proporção e curvatura não naturais.
+    *   **Produto mutante:** Sim, conforme detalhado no tópico de consistência do produto (aplicador muda de forma e material).
+    *   **Boca/Dentes:** Há uma alucinação grave na região da boca. Os dentes da personagem se fundem, mudam de tamanho e formato de maneira bizarra enquanto ela "fala" (especialmente visível nos primeiros 10 segundos).
+    *   **Troca de pessoa:** Não ocorre.
+
+---
+
+### Veredito e Nota de Aprovação
+
+**Nota de Aprovação para Uso Preliminar: 2 / 10 (Reprovado)**
+
+**Justificativa:** Embora a inteligência artificial tenha conseguido manter uma boa consistência de cenário e da identidade geral da personagem, o vídeo falha criticamente nos aspectos mais importantes de um conteúdo UGC (avaliação de produto). O produto sofre mutações visíveis (o que destrói a credibilidade da "resenha"), os dentes da personagem apresentam deformações perturbadoras e a total falta de sincronia labial com o áudio em português deixa escancarado que se trata de um vídeo gerado/manipulado por IA de baixa qualidade. Não é recomendado para uso em campanhas.
