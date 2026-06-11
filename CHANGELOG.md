@@ -7,6 +7,16 @@
 ### 2026-06-11
 | Commit | Autor | Mensagem |
 |--------|-------|----------|
+| `5a0667e` | trentomotta7-hub | chore: checkpoint tentativas e artefatos do creative 001 |
+
+### 2026-06-11
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
+| `91817be` | trentomotta7-hub | docs: define política de personagem IA hiper-realista |
+
+### 2026-06-11
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
 | `5302c32` | trentomotta7-hub | feat: preparar creative pack 001 skincare UGC |
 
 ### 2026-06-11
@@ -181,4 +191,4 @@
 
 
 ---
-*Última atualização: 2026-06-11 23:16:42 UTC*
+*Última atualização: 2026-06-11 23:21:49 UTC*
