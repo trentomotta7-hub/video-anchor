@@ -7,6 +7,11 @@
 ### 2026-06-11
 | Commit | Autor | Mensagem |
 |--------|-------|----------|
+| `c1c6136` | trentomotta7-hub | docs: definir politica de checkpoint GitHub |
+
+### 2026-06-11
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
 | `4ca6730` | trentomotta7-hub | docs: estruturar maquina UGC TikTok Shop rentavel |
 
 ### 2026-06-10
@@ -161,4 +166,4 @@
 
 
 ---
-*Última atualização: 2026-06-11 21:36:55 UTC*
+*Última atualização: 2026-06-11 21:53:25 UTC*
