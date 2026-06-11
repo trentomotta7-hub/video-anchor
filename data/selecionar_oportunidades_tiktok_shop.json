@@ -1,0 +1,84 @@
+{
+  "results": [
+    {
+      "input": "beleza e skincare",
+      "output": {
+        "hooks_recomendados": "Meu segredo para uma pele radiante em 7 dias!; Cansada de pele opaca? Esse sérum mudou minha vida!; O glow que você sempre quis está a um roll-on de distância!",
+        "justificativa_comercial": "O nicho de beleza e skincare possui um alto engajamento no TikTok, impulsionado pela busca por rotinas de cuidado e resultados visíveis. Produtos que oferecem benefícios claros e têm uma aplicação visualmente interessante geram conteúdo UGC autêntico e compartilhável, criando prova social e estimulando a compra por impulso. A demonstração de antes e depois e a facilidade de uso são fatores chave para a viralização.",
+        "nicho": "beleza e skincare",
+        "nivel_confianca": "alto",
+        "persona_recomendada": "A Entusiasta de Skincare Real: Uma pessoa jovem (20-35 anos), que compartilha sua rotina de cuidados com a pele de forma autêntica, mostrando suas imperfeições e a evolução do tratamento. Ela valoriza produtos eficazes e acessíveis, e sua credibilidade vem da sua honestidade e resultados visíveis.",
+        "produto_recomendado": "Sérum facial com vitamina C e ácido hialurônico com aplicador massageador",
+        "produtos_alternativos": "Máscara facial de argila detox; Protetor solar com cor e efeito matte; Balm labial hidratante com volume; Esfoliante corporal com brilho",
+        "prova_visual": "O vídeo pode mostrar a aplicação do sérum com o massageador, destacando a textura do produto, o brilho saudável da pele após o uso e a facilidade de absorção. Pode incluir um 'antes e depois' rápido para mostrar a melhora na hidratação e luminosidade.",
+        "riscos_compliance": "Evitar claims milagrosos ou resultados garantidos em prazos irrealistas. Não prometer cura para condições de pele, apenas melhora na aparência. Usar termos como 'ajuda a', 'contribui para' em vez de 'cura' ou 'elimina'.",
+        "score_receita": 85
+      },
+      "error": ""
+    },
+    {
+      "input": "organização e limpeza doméstica",
+      "output": {
+        "hooks_recomendados": "Cansada de esfregar o chão? Este mop elétrico vai mudar sua vida!; Limpeza pesada nunca foi tão fácil! Veja como transformei minha casa em minutos.; O segredo para uma casa impecável sem esforço: você precisa disso!",
+        "justificativa_comercial": "Produtos que oferecem soluções práticas e visivelmente eficazes para problemas comuns de organização e limpeza doméstica têm alto potencial para UGC no TikTok. O formato de vídeo curto permite demonstrar o 'antes e depois' de forma impactante, gerando engajamento e desejo de compra. A conveniência e a economia de tempo são grandes atrativos para o público.",
+        "nicho": "Organização e limpeza doméstica",
+        "nivel_confianca": "alto",
+        "persona_recomendada": "A Dona de Casa Moderna e Prática + Busca otimizar tempo e esforço na rotina doméstica, valoriza produtos inovadores e gosta de compartilhar dicas.",
+        "produto_recomendado": "Mop Elétrico sem fio",
+        "produtos_alternativos": "Kit de organizadores de geladeira/despensa; Pasta de limpeza multiuso viral; Escova elétrica para limpeza de rejuntes e cantos",
+        "prova_visual": "Demonstração do uso do mop elétrico em uma área suja, mostrando a facilidade de manuseio e o resultado de limpeza imediato. Comparação lado a lado de uma área limpa com o mop e uma área suja.",
+        "riscos_compliance": "Evitar claims exagerados sobre a eficácia do produto ou promessas de resultados milagrosos sem base. Não associar o produto a benefícios de saúde ou segurança que não possam ser comprovados.",
+        "score_receita": 85
+      },
+      "error": ""
+    },
+    {
+      "input": "gadgets de cozinha",
+      "output": {
+        "hooks_recomendados": "Cansado de picar legumes por horas? Veja como este gadget vai mudar sua vida na cozinha!; Este é o segredo para ter refeições prontas em minutos, sem bagunça e com cortes perfeitos!; Nunca mais chore ao cortar cebola! Descubra o gadget que toda cozinha precisa.",
+        "justificativa_comercial": "O nicho de gadgets de cozinha possui alto potencial para UGC de venda devido à natureza visual e prática dos produtos. Eles resolvem problemas cotidianos, como economia de tempo e organização, o que ressoa bem com o público do TikTok. A demonstração de 'antes e depois' e a facilidade de uso são fatores chave que impulsionam o engajamento e a decisão de compra, tornando-o ideal para vídeos curtos e dinâmicos.",
+        "nicho": "Gadgets de cozinha",
+        "nivel_confianca": "alto",
+        "persona_recomendada": "A 'Cozinheira Prática', uma jovem adulta que busca otimizar seu tempo na cozinha sem abrir mão de refeições saudáveis e bem apresentadas.",
+        "produto_recomendado": "Cortador de legumes multifuncional",
+        "produtos_alternativos": "Mini liquidificador portátil; Seladora a vácuo para alimentos; Dispensador automático de sabão com sensor",
+        "prova_visual": "O vídeo pode mostrar o cortador de legumes em ação, transformando vegetais inteiros em fatias ou cubos perfeitos em segundos. Uma comparação lado a lado com o corte manual, destacando a rapidez e uniformidade, seria muito eficaz.",
+        "riscos_compliance": "Evitar claims exagerados sobre velocidade ou facilidade que não possam ser comprovados. Cuidado com promessas de 'milagre' ou que impliquem substituição total de habilidades culinárias, focando sempre na otimização e auxílio. Não prometer resultados irrealistas de economia de tempo ou esforço.",
+        "score_receita": 85
+      },
+      "error": ""
+    },
+    {
+      "input": "pet supplies",
+      "output": {
+        "hooks_recomendados": "Seu cachorro come muito rápido? Veja como resolvemos isso!; Transforme a hora da refeição em diversão e saúde para seu pet!; O segredo para um pet mais calmo e satisfeito está aqui!",
+        "justificativa_comercial": "O nicho de pet supplies é robusto e em constante crescimento, impulsionado pela humanização dos animais de estimação. Produtos que oferecem soluções para problemas comuns dos tutores, como ansiedade, tédio ou hábitos alimentares inadequados, têm alto potencial de engajamento. O formato UGC no TikTok permite demonstrar a eficácia e os benefícios emocionais desses produtos de forma autêntica, gerando confiança e impulsionando a decisão de compra.",
+        "nicho": "Pet Supplies",
+        "nivel_confianca": "alto",
+        "persona_recomendada": "Mãe/Pai de Pet Consciente + Preocupa-se com a saúde e bem-estar do pet, buscando soluções inovadoras.",
+        "produto_recomendado": "Comedouro Lento Interativo para Cães",
+        "produtos_alternativos": "Brinquedos dispensadores de petiscos; Escova removedora de pelos para pets; Bebedouro automático com filtro; Caminha ortopédica para pets",
+        "prova_visual": "Um vídeo pode mostrar o antes e depois do uso do comedouro lento, com o cão comendo de forma mais calma e demorada. Pode-se incluir close-ups do design do comedouro e a interação divertida do pet com o produto.",
+        "riscos_compliance": "Evitar claims de saúde não comprovados, como 'cura a ansiedade' ou 'previne doenças', sem base científica. Focar nos benefícios comportamentais e de bem-estar.",
+        "score_receita": 85
+      },
+      "error": ""
+    },
+    {
+      "input": "fashion funcional e shapewear",
+      "output": {
+        "hooks_recomendados": "Descubra o segredo para um look impecável em segundos; Conforto e confiança o dia todo: a shapewear que você não vai querer tirar; Veja a transformação: como esta peça mudou meu corpo e minha autoestima.",
+        "justificativa_comercial": "O nicho de shapewear no TikTok Shop tem um alto potencial de vendas devido à sua forte conexão com a cultura de influenciadores e o apelo visual de transformações. Vídeos de antes e depois e de \"experimente comigo\" geram grande engajamento, mostrando a eficácia do produto em realçar a silhueta e aumentar a confiança. A plataforma valoriza a autenticidade e a criatividade, permitindo que os criadores explorem o humor e a alegria da transformação, o que ressoa com o público jovem. Além disso, a busca por conforto e a valorização da imagem online impulsionam a demanda por soluções que ofereçam resultados visíveis e imediatos.",
+        "nicho": "Fashion funcional e shapewear",
+        "nivel_confianca": "alto",
+        "persona_recomendada": "Jovem fashionista (Gen Z/Millennial) que busca realçar sua silhueta com conforto e confiança para criar conteúdos e looks para redes sociais.",
+        "produto_recomendado": "Body modelador de alta compressão",
+        "produtos_alternativos": "Shorts modelador de cintura alta; Cinta modeladora com barbatanas; Sutiã adesivo push-up; Legging modeladora com efeito bumbum",
+        "prova_visual": "Vídeos de \"antes e depois\" mostrando a diferença na silhueta ao vestir o body; Demonstração de como o body se ajusta sob diferentes tipos de roupa; Teste de conforto e flexibilidade em movimentos do dia a dia.",
+        "riscos_compliance": "Evitar claims exagerados sobre perda de peso permanente ou benefícios à saúde. Não prometer resultados milagrosos ou permanentes. A comunicação deve focar em realce da silhueta, conforto e confiança, e não em alteração drástica do corpo. Alertar sobre o uso adequado e a importância de escolher o tamanho correto para evitar desconforto ou problemas de saúde.",
+        "score_receita": 85
+      },
+      "error": ""
+    }
+  ]
+}

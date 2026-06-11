@@ -7,6 +7,11 @@
 ### 2026-06-11
 | Commit | Autor | Mensagem |
 |--------|-------|----------|
+| `b9473b9` | trentomotta7-hub | docs: definir operador autonomo de receita |
+
+### 2026-06-11
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
 | `c1c6136` | trentomotta7-hub | docs: definir politica de checkpoint GitHub |
 
 ### 2026-06-11
@@ -166,4 +171,4 @@
 
 
 ---
-*Última atualização: 2026-06-11 21:53:25 UTC*
+*Última atualização: 2026-06-11 21:57:18 UTC*
