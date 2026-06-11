@@ -9,11 +9,11 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Data** | 2026-06-11 21:59:51 UTC |
+| **Data** | 2026-06-11 23:16:42 UTC |
 | **Branch Principal** | main |
-| **Total de Commits** | 34 |
-| **Último Commit** | bccb4aad6f03227b764cb75c1c3efaf5c129244b docs: selecionar primeira oportunidade UGC rentavel |
-| **Data do Último Commit** | 2026-06-11 21:57:18 +0000 |
+| **Total de Commits** | 35 |
+| **Último Commit** | 5302c321d3295058a4d3765b2d03147e4c93aa85 feat: preparar creative pack 001 skincare UGC |
+| **Data do Último Commit** | 2026-06-11 21:59:51 +0000 |
 
 ---
 
@@ -22,7 +22,7 @@
 **Repositório:** video-anchor  
 **URL:** https://github.com/trentomotta7-hub/video-anchor.git  
 **Tecnologias:** Python  
-**Total de Arquivos:** 162
+**Total de Arquivos:** 955
 
 ---
 
@@ -65,6 +65,11 @@ trentomotta7-hub <trentomotta7@github.com>
 ./gc_assets/takes_v8
 ./gc_assets/takes_v9
 ./gc_output
+./gc_output/creative_001_v3_still_locked
+./gc_output/creative_001_v4_stock_real
+./gc_output/creative_001_v5_real_photo_controlled
+./gc_output/creative_001_v6_real_footage
+./gc_output/real_footage
 ./prompts
 ./prompts/001_skincare_serum
 ./roteiros
@@ -82,6 +87,7 @@ trentomotta7-hub <trentomotta7@github.com>
 ## 📜 Histórico de Commits (Últimos 50)
 
 ```
+[33m5302c32[m feat: preparar creative pack 001 skincare UGC
 [33mbccb4aa[m docs: selecionar primeira oportunidade UGC rentavel
 [33mb9473b9[m docs: definir operador autonomo de receita
 [33mc1c6136[m docs: definir politica de checkpoint GitHub
