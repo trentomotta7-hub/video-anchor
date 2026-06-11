@@ -1,0 +1,3 @@
+file 'creative_001_v7_take1_hook_ai_hyperreal.mp4'
+file 'creative_001_v7_take2_demo_ai_hyperreal.mp4'
+file 'creative_001_v7_take3_cta_ai_hyperreal.mp4'
