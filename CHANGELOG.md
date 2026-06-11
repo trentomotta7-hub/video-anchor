@@ -7,6 +7,11 @@
 ### 2026-06-10
 | Commit | Autor | Mensagem |
 |--------|-------|----------|
+| `e8ddf6d` | MANUOS IA | checkpoint: Pipeline UGC v10 [skip ci] |
+
+### 2026-06-10
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
 | `82933d8` | MANUOS IA | feat: Pipeline UGC v10 — vídeo contínuo, sem cortes, sem legendas |
 
 ### 2026-06-10
@@ -151,4 +156,4 @@
 
 
 ---
-*Última atualização: 2026-06-10 16:47:24 UTC*
+*Última atualização: 2026-06-11 21:36:10 UTC*

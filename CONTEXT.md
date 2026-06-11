@@ -9,10 +9,10 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Data** | 2026-06-10 16:47:24 UTC |
+| **Data** | 2026-06-11 21:36:10 UTC |
 | **Branch Principal** | main |
-| **Total de Commits** | 29 |
-| **Último Commit** | 82933d81ca4610cdbca0f6086ab659a69b2ea8b4 feat: Pipeline UGC v10 — vídeo contínuo, sem cortes, sem legendas |
+| **Total de Commits** | 30 |
+| **Último Commit** | e8ddf6db3e7d47a56aff261169c1e48595cf2c5e checkpoint: Pipeline UGC v10 [skip ci] |
 | **Data do Último Commit** | 2026-06-10 16:47:24 +0000 |
 
 ---
@@ -22,7 +22,7 @@
 **Repositório:** video-anchor  
 **URL:** https://github.com/trentomotta7-hub/video-anchor.git  
 **Tecnologias:** Python  
-**Total de Arquivos:** 164
+**Total de Arquivos:** 152
 
 ---
 
@@ -50,6 +50,8 @@ trentomotta7-hub <trentomotta7@github.com>
 ./assets
 ./assets/vozes
 ./clips
+./data
+./docs
 ./gc_assets
 ./gc_assets/inputs
 ./gc_assets/kf
@@ -63,8 +65,6 @@ trentomotta7-hub <trentomotta7@github.com>
 ./gc_output
 ./roteiros
 ./scripts
-./takes_extraidos
-./takes_v5
 ./videos
 ./videos_did
 ./videos_final
@@ -77,6 +77,7 @@ trentomotta7-hub <trentomotta7@github.com>
 ## 📜 Histórico de Commits (Últimos 50)
 
 ```
+[33me8ddf6d[m checkpoint: Pipeline UGC v10 [skip ci]
 [33m82933d8[m feat: Pipeline UGC v10 — vídeo contínuo, sem cortes, sem legendas
 [33m18c4c41[m checkpoint: UGC v9 hook confessional [skip ci]
 [33m5a1fa8a[m feat: UGC v9 — hook confessional, headlines de dor, CTA urgente
