@@ -9,11 +9,11 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Data** | 2026-06-11 23:27:27 UTC |
+| **Data** | 2026-06-12 01:29:08 UTC |
 | **Branch Principal** | main |
-| **Total de Commits** | 38 |
-| **Último Commit** | fe81acd6c90d907153d052f5bf3f7cd1c548030b assets: add referência hiper-realista v7 da Bia |
-| **Data do Último Commit** | 2026-06-11 23:21:50 +0000 |
+| **Total de Commits** | 39 |
+| **Último Commit** | aeebbd0572801ab495a9a535381359ca64e27a01 assets: add vídeo v7 hiper-realista do creative 001 |
+| **Data do Último Commit** | 2026-06-11 23:27:28 +0000 |
 
 ---
 
@@ -22,7 +22,7 @@
 **Repositório:** video-anchor  
 **URL:** https://github.com/trentomotta7-hub/video-anchor.git  
 **Tecnologias:** Python  
-**Total de Arquivos:** 967
+**Total de Arquivos:** 969
 
 ---
 
@@ -87,6 +87,7 @@ trentomotta7-hub <trentomotta7@github.com>
 ## 📜 Histórico de Commits (Últimos 50)
 
 ```
+[33maeebbd0[m assets: add vídeo v7 hiper-realista do creative 001
 [33mfe81acd[m assets: add referência hiper-realista v7 da Bia
 [33m5a0667e[m chore: checkpoint tentativas e artefatos do creative 001
 [33m91817be[m docs: define política de personagem IA hiper-realista

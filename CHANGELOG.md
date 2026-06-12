@@ -7,6 +7,11 @@
 ### 2026-06-11
 | Commit | Autor | Mensagem |
 |--------|-------|----------|
+| `aeebbd0` | trentomotta7-hub | assets: add vídeo v7 hiper-realista do creative 001 |
+
+### 2026-06-11
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
 | `fe81acd` | trentomotta7-hub | assets: add referência hiper-realista v7 da Bia |
 
 ### 2026-06-11
@@ -196,4 +201,4 @@
 
 
 ---
-*Última atualização: 2026-06-11 23:27:27 UTC*
+*Última atualização: 2026-06-12 01:29:08 UTC*
