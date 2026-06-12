@@ -9,11 +9,11 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Data** | 2026-06-12 01:29:08 UTC |
+| **Data** | 2026-06-12 01:35:31 UTC |
 | **Branch Principal** | main |
-| **Total de Commits** | 39 |
-| **Último Commit** | aeebbd0572801ab495a9a535381359ca64e27a01 assets: add vídeo v7 hiper-realista do creative 001 |
-| **Data do Último Commit** | 2026-06-11 23:27:28 +0000 |
+| **Total de Commits** | 43 |
+| **Último Commit** | 576e7c38146e86bddfb4830785d94cc75d458c4e docs: add relatório de validação do vídeo v7 |
+| **Data do Último Commit** | 2026-06-12 01:29:27 +0000 |
 
 ---
 
@@ -22,7 +22,7 @@
 **Repositório:** video-anchor  
 **URL:** https://github.com/trentomotta7-hub/video-anchor.git  
 **Tecnologias:** Python  
-**Total de Arquivos:** 969
+**Total de Arquivos:** 999
 
 ---
 
@@ -58,17 +58,21 @@ trentomotta7-hub <trentomotta7@github.com>
 ./gc_assets/inputs
 ./gc_assets/kf
 ./gc_assets/kf_v9
+./gc_assets/takes_v10
 ./gc_assets/takes_v5
 ./gc_assets/takes_v6
 ./gc_assets/takes_v6_final
 ./gc_assets/takes_v7
 ./gc_assets/takes_v8
+./gc_assets/takes_v8_new
 ./gc_assets/takes_v9
 ./gc_output
+./gc_output/creative_001_v10
 ./gc_output/creative_001_v3_still_locked
 ./gc_output/creative_001_v4_stock_real
 ./gc_output/creative_001_v5_real_photo_controlled
 ./gc_output/creative_001_v6_real_footage
+./gc_output/creative_001_v8
 ./gc_output/real_footage
 ./prompts
 ./prompts/001_skincare_serum
@@ -87,6 +91,10 @@ trentomotta7-hub <trentomotta7@github.com>
 ## 📜 Histórico de Commits (Últimos 50)
 
 ```
+[33m576e7c3[m docs: add relatório de validação do vídeo v7
+[33mc79052b[m feat: Creative 001 v10 — 3 takes 8s, camiseta branca fixada, personagem consistente, 1080x1920 24s
+[33m2b87e68[m docs: Adiciona Playbook Estratégico de Criativos Virais para TikTok Shop (v1.0)
+[33m4e3110d[m feat: Creative 001 v8 — GPT Image 2 hiper-realista + TTS pt-BR
 [33maeebbd0[m assets: add vídeo v7 hiper-realista do creative 001
 [33mfe81acd[m assets: add referência hiper-realista v7 da Bia
 [33m5a0667e[m chore: checkpoint tentativas e artefatos do creative 001

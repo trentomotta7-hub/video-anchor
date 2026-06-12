@@ -4,6 +4,26 @@
 
 ---
 
+### 2026-06-12
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
+| `576e7c3` | trentomotta7-hub | docs: add relatório de validação do vídeo v7 |
+
+### 2026-06-12
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
+| `c79052b` | Manus AI | feat: Creative 001 v10 — 3 takes 8s, camiseta branca fixada, personagem consistente, 1080x1920 24s |
+
+### 2026-06-12
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
+| `2b87e68` | Manus AI | docs: Adiciona Playbook Estratégico de Criativos Virais para TikTok Shop (v1.0) |
+
+### 2026-06-12
+| Commit | Autor | Mensagem |
+|--------|-------|----------|
+| `4e3110d` | Manus AI | feat: Creative 001 v8 — GPT Image 2 hiper-realista + TTS pt-BR |
+
 ### 2026-06-11
 | Commit | Autor | Mensagem |
 |--------|-------|----------|
@@ -201,4 +221,4 @@
 
 
 ---
-*Última atualização: 2026-06-12 01:29:08 UTC*
+*Última atualização: 2026-06-12 01:35:31 UTC*
